@@ -74,9 +74,9 @@ export default function Hero() {
               {...fadeUp(0.2)}
               className="text-[clamp(2.5rem,7vw,5rem)] font-bold tracking-[-2px] leading-[1.05] mb-3"
             >
-              <span className="text-[#f2f3f5]">Alex</span>
+              <span className="text-[#f2f3f5]">Stefon</span>
               <br />
-              <span className="text-[#5865f2]">Developer</span>
+              <span className="text-[#5865f2]">Hickman</span>
             </motion.h1>
 
             {/* Typed */}
